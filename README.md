@@ -11,33 +11,33 @@ rental for book and other CRUD operation
 #### Get all books
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/books
+   https://fathomless-waters-11137.herokuapp.com/api/books
 ```
 
 #### Get genres
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/genres
+   https://fathomless-waters-11137.herokuapp.com/api/genres
 ```
 #### Get new user
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/user
+   https://fathomless-waters-11137.herokuapp.com/api/user
 ```
 #### authenticate existing user
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/auth
+   https://fathomless-waters-11137.herokuapp.com/api/auth
 ```
 #### Get customer
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/customer
+   https://fathomless-waters-11137.herokuapp.com/api/customer
 ```
 #### Get customer rental details
 
 ```http
-  GET https://fathomless-waters-11137.herokuapp.com/api/rental
+   https://fathomless-waters-11137.herokuapp.com/api/rental
 ```
 
 ## Deployment
