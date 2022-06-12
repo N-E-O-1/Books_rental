@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const dbUrl = "mongodb+srv://admin:admin@vidly1.smvy1.mongodb.net/?retryWrites=true&w=majority"
+const dbUrl = "mongodb+srv://admin:admin@vidly1.smvy1.mongodb.net/Books?retryWrites=true&w=majority"
 const connectionParams = {
     useUnifiedTopology:true,
 }
